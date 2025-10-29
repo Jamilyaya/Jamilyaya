@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 Прогресс навыков
+### 📈 Прогресс навыков
 
 <p>
   <img src="https://img.shields.io/badge/HTML-70%25-FF5733?style=flat&logo=html5" alt="HTML" />
