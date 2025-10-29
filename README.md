@@ -25,6 +25,23 @@
 
 ---
 
+### 📊 Прогресс навыков
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-70%25-FF5733?style=flat&logo=html5" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-60%25-33A1FF?style=flat&logo=css3" alt="CSS" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-50%25-F05032?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-50%25-181717?style=flat&logo=github" alt="GitHub" />
+  <br/>
+  <img src="https://img.shields.io/badge/Английский-B1-0066CC?style=flat" alt="English" />
+  <img src="https://img.shields.io/badge/Немецкий-A2-006600?style=flat" alt="German" />
+</p>
+
+> 💡 *Проценты отражают мой текущий уровень уверенности — не официальную сертификацию.*
+
+---
+
 ### 💬 Связаться со мной
 - **Email**: dzhamilyaahmetovaufa@mail.ru 
 - **GitHub**: [@Jamilyaya](https://github.com/Jamilyaya)
