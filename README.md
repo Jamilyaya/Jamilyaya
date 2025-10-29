@@ -33,9 +33,9 @@
 
 ### 💫 Анимированная типизация
 
-<tool_call>
-{"name": "search_image", "arguments": {"prompt": "Typing SVG"}}
-<tool_call>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=435&lines=Меняю+профессию;Учусь+каждый+день;Стремлюсь+к+независимости" alt="Typing SVG" />
+</p>
 
 ---
 
